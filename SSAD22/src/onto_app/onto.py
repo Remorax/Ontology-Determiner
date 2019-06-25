@@ -41,6 +41,7 @@ def add_onto_file(admin_id, name):
 
 def add_new_ontologies():
     ontologies = ['.'.join(f.split('.')[:-1]) for f in listdir("./data/owl/") if isfile(join("./data/owl/", f))]
+    ontologies = [ont for ont in ontologies if ont]
     # print("Onto=", ontologies)
     result = db.engine.execute("""SELECT name FROM ontologies""")
     db_ontologies = [o['name'] for o in result.fetchall()]
@@ -50,6 +51,7 @@ def add_new_ontologies():
 
 def get_new_relations(filepath):
     d = dict()
+    print (filepath)
     f = open(filepath, 'r')
     relations = list()
     classes = list()
@@ -59,6 +61,7 @@ def get_new_relations(filepath):
     # triple of the subject, predicate, and object
     # Create an adjacency list graph from the triples
     for l in f.readlines():
+        print (l)
         s, p, o = l.split()
         if o == str(OWL.Class):
             classes.append(s)
@@ -88,7 +91,7 @@ def get_new_relations(filepath):
                             rang = o1
                     if quant == str(OWL.someValuesFrom):
                         relations.append((domain, prop, quant, rang))
-    print(subclasses)
+    print(subclasses, relations, classes)
     return relations, classes, subclasses
 
 def add_nodes_to_db(nodes, onto_id):
@@ -124,12 +127,13 @@ def add_subclasses_to_db(subclasses, onto_id):
     args = {'domain': None, 'property': None, 'quantifier': None, 'range': None, 'onto_id': onto_id}
     # print("#relations = ", len(relations))
     for r in subclasses:
+        print (r)
         args['domain'] = r[0]
         args['property'] = None
         args['quantifier'] = str(RDFS.subClassOf)
         args['range'] = r[1]
         result = db.engine.execute(insert_query, args)
-        # print(result)
+        print(result)
     # db.session.commit()
 
 
@@ -161,11 +165,13 @@ def add_relation_decision(user_id, property, domain, range, quantifier, onto_id,
     insert_query = """INSERT INTO class_decisions
                         (relation_id, user_id, approved)
                         VALUES (:relation_id, :user_id, :approved)"""
-    result = db.engine.execute(insert_query, {
-        'relation_id': relation_id,
-        'user_id': user_id,
-        'approved': decision
-    })
+    print (relation_id, user_id, decision)
+    with db.engine.connect() as connection:
+        result = connection.execute(insert_query, {
+            'relation_id': relation_id,
+            'user_id': user_id,
+            'approved': decision
+        })
 
 def add_node_decision(user_id, name, onto_id, decision):
     relation_query = """SELECT id FROM nodes
