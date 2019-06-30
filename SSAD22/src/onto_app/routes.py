@@ -20,7 +20,7 @@ CLIENT_ID = "395200844618-bnei4qvc8203ieoic6hpkbrkdnvmdq49.apps.googleuserconten
 
 # This OAuth 2.0 access scope allows for full read/write access to the
 # authenticated user's account and requires requests to use an SSL connection.
-SCOPES = ["https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile"]
+SCOPES = ["https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile", "openid"]
 API_SERVICE_NAME = 'drive'
 API_VERSION = 'v2'
 
@@ -112,7 +112,8 @@ def authenticated():
     flow.redirect_uri = url_for('authenticated', _external=True)
     # Use the authorization server's response to fetch the OAuth 2.0 tokens.
     authorization_response = request.url
-    flow.fetch_token(authorization_response=authorization_response)
+    flow.fetch_token(authorization_response=
+        authorization_response)
     # Store credentials in the session.
     # ACTION ITEM: In a production app, you likely want to save these
     #              credentials in a persistent database instead.
