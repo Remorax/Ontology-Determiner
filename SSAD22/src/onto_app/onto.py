@@ -1,6 +1,7 @@
 import subprocess
 from os import listdir
 from os.path import isfile, join
+import xml.dom.minidom
 
 from onto_app import db
 from onto_app.aggregate import accepted
@@ -8,6 +9,7 @@ from rdflib import Graph
 from rdflib.namespace import OWL, RDF, RDFS
 
 OWL2VOWL = 'OWL2VOWL-0.3.5-shaded.jar'
+baseurl = "https://serc.iiit.ac.in/downloads/ontology/test.owl"
 
 def is_blank(node):
     if not '#' in node:
@@ -15,14 +17,62 @@ def is_blank(node):
     else:
         return False
 
+def run(inputfile, outputfile, url, results):
+    print (outputfile)
+    thefile=open(outputfile,"w+")
+    doc = xml.dom.minidom.parse(inputfile)
+    print (results)
+    for (instance, concept) in results:
+        # (instance, concept) = line.split()
+        needed = doc.getElementsByTagName("owl:Class")
+        newelementclass = doc.createElement("owl:Class")
+        newelementclass.setAttribute("rdf:about", url + "#" + concept)
+        newelementsubclass = doc.createElement("rdfs:subClassOf")
+        newelementsubclass.setAttribute("rdf:resource",url + "#" + instance)
+        newelementclasslabel = doc.createElement("rdfs:label")
+        newelementclasslabel.setAttribute("xml:lang","en")
+        text = doc.createTextNode(concept)
+        newelementclasslabel.appendChild(text)
+        newelementclass.appendChild(newelementsubclass)
+        newelementclass.appendChild(newelementclasslabel)
+        needed[0].parentNode.insertBefore(newelementclass, needed[0])
+        search = doc.getElementsByTagName("owl:members")[0]
+        if search.getAttribute("rdf:parseType"):
+            newelementclass = doc.createElement("rdf:Description")
+            newelementclass.setAttribute("rdf:about", url + "#" + concept)
+            search.appendChild(newelementclass)
+        
+    doc.writexml(thefile)
+    thefile.close()
+
+def createParsedRelations(file, fname):
+    allParsedRelations = []
+    for line in open(file, "r").readlines():
+        (instance, concept) = line.split()
+        newinstance = baseurl + "#" + instance
+        newconcept = baseurl + "#" + concept
+        relation = "http://www.w3.org/2000/01/rdf-schema#subClassOf"
+        allParsedRelations.append(" ".join([newinstance, relation, newconcept]))
+    string = "\n".join(allParsedRelations)
+    open("./data/new/" + str(fname) + '.txt', "w+").write(string)
+    return
+
+
 def add_onto_file(admin_id, name):
     # compile OWL to JSON using OWL2VOWL
     json_path = './data/json/' + str(name) + '.json'
-    new_relations_file = './data/new/' + str(name) + '.txt'
-    filepath = './data/owl/'+str(name) + '.owl'
+    unparsed_relations_file = './data/input/' + str(name) + '.txt'
+    filepath = './data/input/' + str(name) + '.owl'
     f = open(json_path, 'w')
+    allTriples = [el.split(" ") for el in open(unparsed_relations_file).read().split("\n")]
+
+    createParsedRelations(unparsed_relations_file, name)
+    new_relations_file = './data/new/' + str(name) + '.txt'
+    outputfile = "./data/owl/" +str(name) + '.owl'
+    print ("Hi im here")
+    run(filepath,outputfile,baseurl, allTriples)
     try:
-        subprocess.run(['java', '-jar', OWL2VOWL, '-file', filepath, '-echo'], stdout=f)
+        subprocess.run(['java', '-jar', OWL2VOWL, '-file', outputfile, '-echo'], stdout=f)
     except:
         raise RuntimeError
 

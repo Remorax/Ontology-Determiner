@@ -1,1 +1,2 @@
-http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanCold http://www.w3.org/2000/01/rdf-schema#subClassOf http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza
+https://serc.iiit.ac.in/downloads/ontology/test.owl#Pizza http://www.w3.org/2000/01/rdf-schema#subClassOf https://serc.iiit.ac.in/downloads/ontology/test.owl#PeriPeri
+https://serc.iiit.ac.in/downloads/ontology/test.owl#IndianPizza http://www.w3.org/2000/01/rdf-schema#subClassOf https://serc.iiit.ac.in/downloads/ontology/test.owl#TandooriPizza
