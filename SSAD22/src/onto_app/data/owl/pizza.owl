@@ -2899,7 +2899,7 @@ v1.4. Added Food class (used in domain/range of hasIngredient), Added several ha
             <rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#Soho"/>
             <rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#UnclosedPizza"/>
             <rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#Veneziana"/>
-        <rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#PeriPeri"/><rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#TandooriPizza"/></owl:members>
+        <rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#PeriPeri"/><rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#Pizza"/><rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#TandooriPizza"/><rdf:Description rdf:about="https://serc.iiit.ac.in/downloads/ontology/test.owl#IndianPizza"/></owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>

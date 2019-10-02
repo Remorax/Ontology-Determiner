@@ -41,6 +41,11 @@ def run(inputfile, outputfile, url, results):
             newelementclass = doc.createElement("rdf:Description")
             newelementclass.setAttribute("rdf:about", url + "#" + concept)
             search.appendChild(newelementclass)
+
+            
+            newelementclass = doc.createElement("rdf:Description")
+            newelementclass.setAttribute("rdf:about", url + "#" + instance)
+            search.appendChild(newelementclass)
         
     doc.writexml(thefile)
     thefile.close()
