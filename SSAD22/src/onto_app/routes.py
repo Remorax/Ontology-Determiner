@@ -41,7 +41,7 @@ def home():
 @app.route('/hello', methods=["GET", "POST"])
 def hello():
     if request.method == 'GET' :
-        add_onto_file(1, "pizza", "./data/owl/pizza.owl", "./data/json/pizza.json", "./data/new/pizza.txt")
+        add_onto_file(1, "pizza")
         return "Pizza ontology has been added to database"
     if request.method == 'POST' :
         """ Remanants of testing code, will be removed later when they will be no longer be used with certainity. """
@@ -141,7 +141,7 @@ def user():
     ontologies = get_ontologies_on_server()
 
     try:
-        add_onto_file(1, "pizza", "./data/owl/pizza.owl", "./data/json/pizza.json", "./data/new/pizza.txt")
+        add_onto_file(1, "pizza")
     except:
         pass
     # return redirect(url_for('loadOntology', filename='pizza.json'))
@@ -218,34 +218,33 @@ def loadOntology(file) :
     fname = fname + ".txt"
 
     result = db.engine.execute("SELECT id FROM ontologies WHERE name = :name", {'name': file})
-    onto_id = result.fetchone()['id']
-    session['ontology'] = onto_id
+    # onto_id = result.fetchone()['id']
+    # session['ontology'] = onto_id
     """ Corresponding new relations for given ontology are stored in data/new. """
 
     # new_relations, new_nodes = get_new_relations(os.path.join(current_app.root_path,"data/new")+ "/" + fname)
     # print(new_relations)
-    result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier != :subclass""",
-        {'subclass': str(RDFS.subClassOf)})
-    new_relations = [(r['domain'], r['property'], r['quantifier'], r['range']) for r in result.fetchall()]
+    # result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier != :subclass""",
+        # {'subclass': str(RDFS.subClassOf)})
+    # new_relations = [(r['domain'], r['property'], r['quantifier'], r['range']) for r in result.fetchall()]
 
-    result = db.engine.execute("""SELECT * FROM nodes""")
-    new_nodes = [n['name'] for n in result.fetchall()]
+    # result = db.engine.execute("""SELECT * FROM nodes""")
+    # new_nodes = [n['name'] for n in result.fetchall()]
 
-    result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier = :subclass""",
-        {'subclass': str(RDFS.subClassOf)})
-    new_subclasses = [(r['domain'], r['range']) for r in result.fetchall()]
-    print ("new subclass", new_subclasses)
+    # result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier = :subclass""",
+        # {'subclass': str(RDFS.subClassOf)})
+    # new_subclasses = [(r['domain'], r['range']) for r in result.fetchall()]
+    # print ("new subclass", new_subclasses)
+    print(uploads)
     try :
         with open(uploads,"r") as json_data:
             contents = json.load(json_data)
-            # print(contents)
+            print(contents)
     except :
         flash('Oops record not found')
         return redirect(url_for('hello'))
 
-    return render_template("index.html", OntologyContentJson=contents, hiddenJSONRel=new_relations, 
-                        hiddenJSONNode=new_nodes, hiddenJSONSubclass=new_subclasses,
-                        userId=session['userid'], username=session['username'], emptyList = [])
+    return render_template("index.html", ontologyJsonString=contents)
 
 
 # @app.route('/return-files/<path:filename>/', methods = ['GET', 'POST'])

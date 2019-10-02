@@ -24,12 +24,7 @@
       "contributor" : [ {
         "identifier" : "contributor",
         "language" : "undefined",
-        "value" : "Robert Stevens",
-        "type" : "label"
-      }, {
-        "identifier" : "contributor",
-        "language" : "undefined",
-        "value" : "Matthew Horridge",
+        "value" : "Alan Rector",
         "type" : "label"
       }, {
         "identifier" : "contributor",
@@ -39,12 +34,17 @@
       }, {
         "identifier" : "contributor",
         "language" : "undefined",
+        "value" : "Matthew Horridge",
+        "type" : "label"
+      }, {
+        "identifier" : "contributor",
+        "language" : "undefined",
         "value" : "Nick Drummond",
         "type" : "label"
       }, {
         "identifier" : "contributor",
         "language" : "undefined",
-        "value" : "Alan Rector",
+        "value" : "Robert Stevens",
         "type" : "label"
       } ],
       "provenance" : [ {
@@ -452,12 +452,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Siciliana Pizza",
+        "value" : "Siciliana",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Siciliana",
+        "value" : "Siciliana Pizza",
         "type" : "label"
       } ]
     },
@@ -674,12 +674,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Prince Carlo Pizza",
+        "value" : "Prince Carlo",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Prince Carlo",
+        "value" : "Prince Carlo Pizza",
         "type" : "label"
       } ]
     },
@@ -893,12 +893,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Caprina Pizza",
+        "value" : "Caprina",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Caprina",
+        "value" : "Caprina Pizza",
         "type" : "label"
       } ]
     },
@@ -1053,12 +1053,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Pollo Ad Astra Pizza",
+        "value" : "Pollo Ad Astra",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Pollo Ad Astra",
+        "value" : "Pollo Ad Astra Pizza",
         "type" : "label"
       } ]
     },
@@ -1706,12 +1706,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Giardiniera",
+        "value" : "Giardiniera Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Giardiniera Pizza",
+        "value" : "Giardiniera",
         "type" : "label"
       } ]
     },
@@ -1808,12 +1808,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Cajun Pizza",
+        "value" : "Cajun",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Cajun",
+        "value" : "Cajun Pizza",
         "type" : "label"
       } ]
     },
@@ -2194,12 +2194,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Rosa",
+        "value" : "Rosa Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Rosa Pizza",
+        "value" : "Rosa",
         "type" : "label"
       } ]
     },
@@ -2266,12 +2266,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Four Seasons Pizza",
+        "value" : "Four Seasons",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Four Seasons",
+        "value" : "Four Seasons Pizza",
         "type" : "label"
       } ]
     },
@@ -2381,12 +2381,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Frutti Di Mare",
+        "value" : "Frutti Di Mare Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Frutti Di Mare Pizza",
+        "value" : "Frutti Di Mare",
         "type" : "label"
       } ]
     },
@@ -2577,12 +2577,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Cold",
+        "value" : "American Cold Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Cold Pizza",
+        "value" : "American Cold",
         "type" : "label"
       } ]
     },
@@ -2783,12 +2783,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Hot Pizza",
+        "value" : "American Hot",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Hot",
+        "value" : "American Hot Pizza",
         "type" : "label"
       } ]
     },
@@ -4947,12 +4947,12 @@
   "propertyAttribute" : [ {
     "range" : "2",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "0"
   }, {
     "range" : "5",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "3"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -4967,17 +4967,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "6"
   }, {
     "range" : "7",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "11"
   }, {
     "range" : "5",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "12"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -4992,17 +4992,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "14"
   }, {
     "range" : "17",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "16"
   }, {
     "range" : "5",
     "domain" : "19",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "18"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5017,17 +5017,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "20"
   }, {
     "range" : "23",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "22"
   }, {
     "range" : "5",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "24"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5042,37 +5042,37 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "25"
   }, {
     "range" : "28",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "27"
   }, {
     "range" : "5",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "29"
   }, {
     "range" : "2",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "31"
   }, {
     "range" : "5",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "33"
   }, {
     "range" : "37",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "35"
   }, {
     "range" : "39",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "38"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasIngredient",
@@ -5087,7 +5087,7 @@
     "comment" : {
       "en" : "NB Transitive - the ingredients of ingredients are ingredients of the whole"
     },
-    "attributes" : [ "transitive", "external", "object" ],
+    "attributes" : [ "external", "transitive", "object" ],
     "id" : "10"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5102,7 +5102,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "44"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5117,12 +5117,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "46"
   }, {
     "range" : "47",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "48"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5137,12 +5137,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "50"
   }, {
     "range" : "47",
     "domain" : "21",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "51"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5155,32 +5155,32 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "52"
   }, {
     "range" : "2",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "55"
   }, {
     "range" : "5",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "57"
   }, {
     "range" : "60",
     "domain" : "53",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "59"
   }, {
     "range" : "2",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "61"
   }, {
     "range" : "5",
     "domain" : "26",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "63"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5195,17 +5195,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "64"
   }, {
     "range" : "67",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "66"
   }, {
     "range" : "47",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "68"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5218,17 +5218,17 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "69"
   }, {
     "range" : "2",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "71"
   }, {
     "range" : "47",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "73"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5243,17 +5243,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "74"
   }, {
     "range" : "77",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "76"
   }, {
     "range" : "47",
     "domain" : "19",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "78"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5268,17 +5268,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "79"
   }, {
     "range" : "2",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "80"
   }, {
     "range" : "47",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "82"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5293,17 +5293,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "83"
   }, {
     "range" : "2",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "84"
   }, {
     "range" : "47",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "86"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5318,37 +5318,37 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "87"
   }, {
     "range" : "2",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "89"
   }, {
     "range" : "47",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "91"
   }, {
     "range" : "93",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "92"
   }, {
     "range" : "47",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "94"
   }, {
     "range" : "97",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "96"
   }, {
     "range" : "99",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "98"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasBase",
@@ -5360,7 +5360,7 @@
     },
     "superproperty" : [ "10" ],
     "domain" : "103",
-    "attributes" : [ "external", "object", "allValues", "functional", "inverse functional" ],
+    "attributes" : [ "external", "allValues", "object", "inverse functional", "functional" ],
     "id" : "102"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5373,12 +5373,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "106"
   }, {
     "range" : "5",
     "domain" : "47",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "108"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5393,12 +5393,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "109"
   }, {
     "range" : "47",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "111"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5413,17 +5413,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "112"
   }, {
     "range" : "115",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "114"
   }, {
     "range" : "47",
     "domain" : "26",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "116"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5438,7 +5438,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "117"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5453,7 +5453,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "118"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5468,7 +5468,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "121"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5483,7 +5483,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "122"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5498,7 +5498,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "123"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5513,7 +5513,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "124"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5528,7 +5528,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "126"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5543,7 +5543,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "127"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5558,12 +5558,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "128"
   }, {
     "range" : "88",
     "domain" : "130",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "129"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5578,12 +5578,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "131"
   }, {
     "range" : "133",
     "domain" : "88",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "132"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5598,12 +5598,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "134"
   }, {
     "range" : "133",
     "domain" : "130",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "136"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5616,7 +5616,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "137"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5631,7 +5631,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "138"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5646,7 +5646,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "140"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5661,7 +5661,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "142"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5676,7 +5676,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "144"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5691,7 +5691,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "146"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5706,12 +5706,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "148"
   }, {
     "range" : "7",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "150"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5724,12 +5724,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "151"
   }, {
     "range" : "17",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "153"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5742,12 +5742,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "154"
   }, {
     "range" : "28",
     "domain" : "17",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "155"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5760,12 +5760,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "156"
   }, {
     "range" : "17",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "157"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasBase",
@@ -5777,12 +5777,12 @@
     },
     "superproperty" : [ "10" ],
     "domain" : "159",
-    "attributes" : [ "someValues", "external", "object", "functional", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues", "functional" ],
     "id" : "158"
   }, {
     "range" : "28",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "161"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5797,12 +5797,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "162"
   }, {
     "range" : "23",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "163"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5817,12 +5817,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "164"
   }, {
     "range" : "28",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "165"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5837,7 +5837,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "166"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5852,7 +5852,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "167"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5867,7 +5867,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "168"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5882,7 +5882,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "169"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5897,12 +5897,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "171"
   }, {
     "range" : "7",
     "domain" : "28",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "172"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -5915,412 +5915,412 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "173"
   }, {
     "range" : "37",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "174"
   }, {
     "range" : "19",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "175"
   }, {
     "range" : "39",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "176"
   }, {
     "range" : "19",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "177"
   }, {
     "range" : "67",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "178"
   }, {
     "range" : "39",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "179"
   }, {
     "range" : "19",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "182"
   }, {
     "range" : "15",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "183"
   }, {
     "range" : "37",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "184"
   }, {
     "range" : "30",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "185"
   }, {
     "range" : "37",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "186"
   }, {
     "range" : "13",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "187"
   }, {
     "range" : "7",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "188"
   }, {
     "range" : "13",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "189"
   }, {
     "range" : "17",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "190"
   }, {
     "range" : "49",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "191"
   }, {
     "range" : "23",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "192"
   }, {
     "range" : "21",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "193"
   }, {
     "range" : "28",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "194"
   }, {
     "range" : "19",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "195"
   }, {
     "range" : "37",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "196"
   }, {
     "range" : "95",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "197"
   }, {
     "range" : "93",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "198"
   }, {
     "range" : "49",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "199"
   }, {
     "range" : "97",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "200"
   }, {
     "range" : "21",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "201"
   }, {
     "range" : "99",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "202"
   }, {
     "range" : "37",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "203"
   }, {
     "range" : "26",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "206"
   }, {
     "range" : "26",
     "domain" : "21",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "207"
   }, {
     "range" : "67",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "208"
   }, {
     "range" : "13",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "209"
   }, {
     "range" : "37",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "210"
   }, {
     "range" : "19",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "211"
   }, {
     "range" : "77",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "212"
   }, {
     "range" : "15",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "213"
   }, {
     "range" : "37",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "214"
   }, {
     "range" : "30",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "215"
   }, {
     "range" : "37",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "216"
   }, {
     "range" : "34",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "217"
   }, {
     "range" : "17",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "218"
   }, {
     "range" : "26",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "219"
   }, {
     "range" : "23",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "220"
   }, {
     "range" : "26",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "221"
   }, {
     "range" : "28",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "222"
   }, {
     "range" : "26",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "223"
   }, {
     "range" : "36",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "224"
   }, {
     "range" : "26",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "225"
   }, {
     "range" : "39",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "226"
   }, {
     "range" : "115",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "227"
   }, {
     "range" : "95",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "228"
   }, {
     "range" : "49",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "229"
   }, {
     "range" : "36",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "230"
   }, {
     "range" : "21",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "231"
   }, {
     "range" : "36",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "232"
   }, {
     "range" : "26",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "233"
   }, {
     "range" : "36",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "234"
   }, {
     "range" : "26",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "235"
   }, {
     "range" : "7",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "236"
   }, {
     "range" : "19",
     "domain" : "26",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "237"
   }, {
     "range" : "77",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "238"
   }, {
     "range" : "13",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "239"
   }, {
     "range" : "36",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "240"
   }, {
     "range" : "19",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "241"
   }, {
     "range" : "36",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "242"
   }, {
     "range" : "15",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "243"
   }, {
     "range" : "36",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "244"
   }, {
     "range" : "30",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "245"
   }, {
     "range" : "93",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "246"
   }, {
     "range" : "58",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "247"
   }, {
     "range" : "97",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "248"
   }, {
     "range" : "99",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "249"
   }, {
     "range" : "5",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "251"
   }, {
     "range" : "5",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "252"
   }, {
     "range" : "115",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "253"
   }, {
     "range" : "5",
     "domain" : "21",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "254"
   }, {
     "range" : "67",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "255"
   }, {
     "range" : "26",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "256"
   }, {
     "range" : "36",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "257"
   }, {
     "range" : "58",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "258"
   }, {
     "range" : "143",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "259"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6335,7 +6335,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "260"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6350,7 +6350,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "261"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6365,7 +6365,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "265"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6378,7 +6378,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "266"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6391,82 +6391,82 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "268"
   }, {
     "range" : "120",
     "domain" : "8",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "269"
   }, {
     "range" : "152",
     "domain" : "8",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "270"
   }, {
     "range" : "139",
     "domain" : "8",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "271"
   }, {
     "range" : "152",
     "domain" : "120",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "272"
   }, {
     "range" : "120",
     "domain" : "139",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "273"
   }, {
     "range" : "143",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "276"
   }, {
     "range" : "143",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "278"
   }, {
     "range" : "23",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "280"
   }, {
     "range" : "17",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "282"
   }, {
     "range" : "32",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "283"
   }, {
     "range" : "28",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "284"
   }, {
     "range" : "281",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "285"
   }, {
     "range" : "281",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "286"
   }, {
     "range" : "7",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "287"
   }, {
     "range" : "281",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "288"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6481,7 +6481,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "289"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6496,7 +6496,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "290"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6511,7 +6511,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "291"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6526,7 +6526,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "292"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6539,7 +6539,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "293"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6554,7 +6554,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "294"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6569,7 +6569,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "295"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6584,7 +6584,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "296"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6599,7 +6599,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "297"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6614,7 +6614,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "298"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#isIngredientOf",
@@ -6628,192 +6628,192 @@
     "comment" : {
       "en" : "The inverse property tree to hasIngredient - all subproperties and attributes of the properties should reflect those under hasIngredient."
     },
-    "attributes" : [ "transitive", "external", "object" ],
+    "attributes" : [ "external", "transitive", "object" ],
     "id" : "41"
   }, {
     "range" : "97",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "300"
   }, {
     "range" : "93",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "301"
   }, {
     "range" : "99",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "302"
   }, {
     "range" : "281",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "303"
   }, {
     "range" : "77",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "304"
   }, {
     "range" : "281",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "305"
   }, {
     "range" : "281",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "306"
   }, {
     "range" : "115",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "307"
   }, {
     "range" : "281",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "308"
   }, {
     "range" : "67",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "309"
   }, {
     "range" : "28",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "310"
   }, {
     "range" : "119",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "311"
   }, {
     "range" : "143",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "312"
   }, {
     "range" : "7",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "313"
   }, {
     "range" : "143",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "314"
   }, {
     "range" : "143",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "315"
   }, {
     "range" : "17",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "316"
   }, {
     "range" : "99",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "317"
   }, {
     "range" : "143",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "318"
   }, {
     "range" : "143",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "319"
   }, {
     "range" : "143",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "320"
   }, {
     "range" : "93",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "321"
   }, {
     "range" : "143",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "322"
   }, {
     "range" : "143",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "324"
   }, {
     "range" : "143",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "325"
   }, {
     "range" : "67",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "326"
   }, {
     "range" : "143",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "327"
   }, {
     "range" : "143",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "328"
   }, {
     "range" : "143",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "329"
   }, {
     "range" : "143",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "330"
   }, {
     "range" : "143",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "331"
   }, {
     "range" : "39",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "332"
   }, {
     "range" : "23",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "335"
   }, {
     "range" : "23",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "336"
   }, {
     "range" : "339",
     "domain" : "338",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "337"
   }, {
     "range" : "17",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "340"
   }, {
     "range" : "28",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "341"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6826,17 +6826,17 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "342"
   }, {
     "range" : "32",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "344"
   }, {
     "range" : "32",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "345"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6849,17 +6849,17 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "346"
   }, {
     "range" : "28",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "347"
   }, {
     "range" : "7",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "348"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6872,12 +6872,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "349"
   }, {
     "range" : "17",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "350"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -6890,12 +6890,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "351"
   }, {
     "range" : "23",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "353"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6910,17 +6910,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "354"
   }, {
     "range" : "7",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "355"
   }, {
     "range" : "28",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "356"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6935,12 +6935,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "357"
   }, {
     "range" : "32",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "358"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6955,42 +6955,42 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "359"
   }, {
     "range" : "7",
     "domain" : "17",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "360"
   }, {
     "range" : "7",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "361"
   }, {
     "range" : "119",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "362"
   }, {
     "range" : "62",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "363"
   }, {
     "range" : "97",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "364"
   }, {
     "range" : "93",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "365"
   }, {
     "range" : "56",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "366"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7005,12 +7005,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "367"
   }, {
     "range" : "99",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "368"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7025,12 +7025,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "369"
   }, {
     "range" : "119",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "370"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7045,17 +7045,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "371"
   }, {
     "range" : "77",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "372"
   }, {
     "range" : "62",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "373"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7068,17 +7068,17 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "374"
   }, {
     "range" : "90",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "375"
   }, {
     "range" : "56",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "376"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7093,17 +7093,17 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "377"
   }, {
     "range" : "85",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "378"
   }, {
     "range" : "7",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "379"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7118,12 +7118,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "380"
   }, {
     "range" : "17",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "381"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7138,12 +7138,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "382"
   }, {
     "range" : "23",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "383"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7156,12 +7156,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "384"
   }, {
     "range" : "28",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "385"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7176,12 +7176,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "386"
   }, {
     "range" : "32",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "387"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7196,12 +7196,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "388"
   }, {
     "range" : "62",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "389"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7216,52 +7216,52 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "390"
   }, {
     "range" : "7",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "391"
   }, {
     "range" : "17",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "392"
   }, {
     "range" : "67",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "393"
   }, {
     "range" : "115",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "395"
   }, {
     "range" : "119",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "396"
   }, {
     "range" : "36",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "397"
   }, {
     "range" : "2",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "398"
   }, {
     "range" : "39",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "399"
   }, {
     "range" : "37",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "400"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7276,42 +7276,42 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "401"
   }, {
     "range" : "23",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "402"
   }, {
     "range" : "159",
     "domain" : "160",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "403"
   }, {
     "range" : "17",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "404"
   }, {
     "range" : "159",
     "domain" : "205",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "405"
   }, {
     "range" : "32",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "406"
   }, {
     "range" : "160",
     "domain" : "205",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "407"
   }, {
     "range" : "28",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "408"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7324,12 +7324,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "409"
   }, {
     "range" : "62",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "410"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7344,7 +7344,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "411"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7359,12 +7359,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "412"
   }, {
     "range" : "7",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "413"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7379,12 +7379,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "414"
   }, {
     "range" : "1",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "415"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7399,7 +7399,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "416"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7414,7 +7414,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "417"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7427,67 +7427,67 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "418"
   }, {
     "range" : "97",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "419"
   }, {
     "range" : "93",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "420"
   }, {
     "range" : "56",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "421"
   }, {
     "range" : "99",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "422"
   }, {
     "range" : "81",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "423"
   }, {
     "range" : "77",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "424"
   }, {
     "range" : "152",
     "domain" : "139",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "425"
   }, {
     "range" : "90",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "426"
   }, {
     "range" : "264",
     "domain" : "107",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "427"
   }, {
     "range" : "85",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "428"
   }, {
     "range" : "264",
     "domain" : "54",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "429"
   }, {
     "range" : "107",
     "domain" : "54",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "430"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7500,12 +7500,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "431"
   }, {
     "range" : "72",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "432"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -7518,12 +7518,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "433"
   }, {
     "range" : "67",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "434"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7538,202 +7538,202 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "435"
   }, {
     "range" : "159",
     "domain" : "436",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "437"
   }, {
     "range" : "160",
     "domain" : "436",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "438"
   }, {
     "range" : "436",
     "domain" : "205",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "439"
   }, {
     "range" : "115",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "440"
   }, {
     "range" : "36",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "441"
   }, {
     "range" : "2",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "442"
   }, {
     "range" : "39",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "443"
   }, {
     "range" : "37",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "444"
   }, {
     "range" : "2",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "446"
   }, {
     "range" : "2",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "447"
   }, {
     "range" : "39",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "448"
   }, {
     "range" : "205",
     "domain" : "451",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "452"
   }, {
     "range" : "205",
     "domain" : "334",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "453"
   }, {
     "range" : "205",
     "domain" : "181",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "454"
   }, {
     "range" : "205",
     "domain" : "343",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "455"
   }, {
     "range" : "323",
     "domain" : "145",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "456"
   }, {
     "range" : "323",
     "domain" : "70",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "457"
   }, {
     "range" : "45",
     "domain" : "352",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "458"
   }, {
     "range" : "460",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "459"
   }, {
     "range" : "99",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "461"
   }, {
     "range" : "28",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "462"
   }, {
     "range" : "97",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "463"
   }, {
     "range" : "99",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "464"
   }, {
     "range" : "99",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "465"
   }, {
     "range" : "99",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "466"
   }, {
     "range" : "7",
     "domain" : "99",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "467"
   }, {
     "range" : "99",
     "domain" : "17",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "468"
   }, {
     "range" : "99",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "469"
   }, {
     "range" : "99",
     "domain" : "28",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "470"
   }, {
     "range" : "17",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "471"
   }, {
     "range" : "23",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "472"
   }, {
     "range" : "93",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "474"
   }, {
     "range" : "28",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "475"
   }, {
     "range" : "93",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "476"
   }, {
     "range" : "99",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "477"
   }, {
     "range" : "97",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "478"
   }, {
     "range" : "97",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "479"
   }, {
     "range" : "97",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "480"
   }, {
     "range" : "7",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "481"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7748,42 +7748,42 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "482"
   }, {
     "range" : "143",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "483"
   }, {
     "range" : "281",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "484"
   }, {
     "range" : "281",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "485"
   }, {
     "range" : "2",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "486"
   }, {
     "range" : "36",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "487"
   }, {
     "range" : "37",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "488"
   }, {
     "range" : "39",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "489"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7798,7 +7798,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "490"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7813,22 +7813,22 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "491"
   }, {
     "range" : "17",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "492"
   }, {
     "range" : "263",
     "domain" : "101",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "493"
   }, {
     "range" : "23",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "494"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7843,12 +7843,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "495"
   }, {
     "range" : "28",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "496"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7863,12 +7863,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "497"
   }, {
     "range" : "77",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "498"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7883,12 +7883,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "499"
   }, {
     "range" : "85",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "500"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7903,92 +7903,92 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "501"
   }, {
     "range" : "90",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "502"
   }, {
     "range" : "93",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "503"
   }, {
     "range" : "149",
     "domain" : "147",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "504"
   }, {
     "range" : "45",
     "domain" : "65",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "505"
   }, {
     "range" : "77",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "506"
   }, {
     "range" : "45",
     "domain" : "147",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "507"
   }, {
     "range" : "77",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "508"
   }, {
     "range" : "147",
     "domain" : "65",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "509"
   }, {
     "range" : "7",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "510"
   }, {
     "range" : "394",
     "domain" : "104",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "511"
   }, {
     "range" : "32",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "512"
   }, {
     "range" : "343",
     "domain" : "181",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "513"
   }, {
     "range" : "77",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "514"
   }, {
     "range" : "343",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "515"
   }, {
     "range" : "77",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "516"
   }, {
     "range" : "181",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "517"
   }, {
     "range" : "77",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "518"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -8001,337 +8001,337 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "519"
   }, {
     "range" : "93",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "520"
   }, {
     "range" : "149",
     "domain" : "45",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "521"
   }, {
     "range" : "97",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "522"
   }, {
     "range" : "149",
     "domain" : "65",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "523"
   }, {
     "range" : "99",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "524"
   }, {
     "range" : "77",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "525"
   }, {
     "range" : "323",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "526"
   }, {
     "range" : "343",
     "domain" : "451",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "527"
   }, {
     "range" : "23",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "528"
   }, {
     "range" : "181",
     "domain" : "451",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "529"
   }, {
     "range" : "28",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "530"
   }, {
     "range" : "451",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "531"
   }, {
     "range" : "90",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "532"
   }, {
     "range" : "274",
     "domain" : "451",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "533"
   }, {
     "range" : "30",
     "domain" : "152",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "534"
   }, {
     "range" : "93",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "535"
   }, {
     "range" : "343",
     "domain" : "274",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "536"
   }, {
     "range" : "205",
     "domain" : "274",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "537"
   }, {
     "range" : "97",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "538"
   }, {
     "range" : "274",
     "domain" : "181",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "539"
   }, {
     "range" : "205",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "540"
   }, {
     "range" : "99",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "541"
   }, {
     "range" : "274",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "542"
   }, {
     "range" : "205",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "543"
   }, {
     "range" : "56",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "544"
   }, {
     "range" : "451",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "545"
   }, {
     "range" : "205",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "546"
   }, {
     "range" : "62",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "547"
   }, {
     "range" : "343",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "548"
   }, {
     "range" : "72",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "549"
   }, {
     "range" : "181",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "550"
   }, {
     "range" : "7",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "551"
   }, {
     "range" : "17",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "552"
   }, {
     "range" : "40",
     "domain" : "160",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "554"
   }, {
     "range" : "40",
     "domain" : "159",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "555"
   }, {
     "range" : "181",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "556"
   }, {
     "range" : "30",
     "domain" : "139",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "557"
   }, {
     "range" : "279",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "558"
   }, {
     "range" : "30",
     "domain" : "8",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "559"
   }, {
     "range" : "85",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "560"
   }, {
     "range" : "274",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "561"
   }, {
     "range" : "30",
     "domain" : "120",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "562"
   }, {
     "range" : "67",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "563"
   }, {
     "range" : "451",
     "domain" : "334",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "564"
   }, {
     "range" : "334",
     "domain" : "267",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "565"
   }, {
     "range" : "67",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "566"
   }, {
     "range" : "343",
     "domain" : "334",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "567"
   }, {
     "range" : "334",
     "domain" : "170",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "568"
   }, {
     "range" : "67",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "569"
   }, {
     "range" : "181",
     "domain" : "334",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "570"
   }, {
     "range" : "334",
     "domain" : "110",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "571"
   }, {
     "range" : "7",
     "domain" : "67",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "572"
   }, {
     "range" : "334",
     "domain" : "250",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "573"
   }, {
     "range" : "334",
     "domain" : "75",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "574"
   }, {
     "range" : "67",
     "domain" : "17",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "575"
   }, {
     "range" : "274",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "576"
   }, {
     "range" : "40",
     "domain" : "436",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "577"
   }, {
     "range" : "67",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "578"
   }, {
     "range" : "279",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "579"
   }, {
     "range" : "40",
     "domain" : "205",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "580"
   }, {
     "range" : "67",
     "domain" : "28",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "581"
   }, {
     "range" : "451",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "582"
   }, {
     "range" : "67",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "583"
   }, {
     "range" : "343",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "584"
   }, {
     "range" : "77",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "585"
   }, {
     "range" : "72",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "586"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasBase",
@@ -8343,142 +8343,142 @@
     },
     "superproperty" : [ "10" ],
     "domain" : "159",
-    "attributes" : [ "external", "object", "functional", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "functional" ],
     "id" : "42"
   }, {
     "range" : "21",
     "domain" : "60",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "587"
   }, {
     "range" : "21",
     "domain" : "53",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "588"
   }, {
     "range" : "274",
     "domain" : "334",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "589"
   }, {
     "range" : "334",
     "domain" : "333",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "590"
   }, {
     "range" : "334",
     "domain" : "323",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "591"
   }, {
     "range" : "334",
     "domain" : "135",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "592"
   }, {
     "range" : "93",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "593"
   }, {
     "range" : "7",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "594"
   }, {
     "range" : "17",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "595"
   }, {
     "range" : "23",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "596"
   }, {
     "range" : "28",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "597"
   }, {
     "range" : "32",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "598"
   }, {
     "range" : "93",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "599"
   }, {
     "range" : "99",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "600"
   }, {
     "range" : "93",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "601"
   }, {
     "range" : "93",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "602"
   }, {
     "range" : "62",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "603"
   }, {
     "range" : "90",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "604"
   }, {
     "range" : "7",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "605"
   }, {
     "range" : "17",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "606"
   }, {
     "range" : "28",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "607"
   }, {
     "range" : "32",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "608"
   }, {
     "range" : "93",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "609"
   }, {
     "range" : "97",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "610"
   }, {
     "range" : "99",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "611"
   }, {
     "range" : "56",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "612"
   }, {
     "range" : "62",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "613"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8493,12 +8493,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "614"
   }, {
     "range" : "85",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "615"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8513,12 +8513,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "616"
   }, {
     "range" : "7",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "617"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8533,52 +8533,52 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "618"
   }, {
     "range" : "17",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "619"
   }, {
     "range" : "23",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "620"
   }, {
     "range" : "170",
     "domain" : "267",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "621"
   }, {
     "range" : "75",
     "domain" : "110",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "622"
   }, {
     "range" : "90",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "623"
   }, {
     "range" : "110",
     "domain" : "170",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "624"
   }, {
     "range" : "93",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "625"
   }, {
     "range" : "75",
     "domain" : "170",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "626"
   }, {
     "range" : "97",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "627"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8593,12 +8593,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "628"
   }, {
     "range" : "99",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "629"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8613,12 +8613,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "630"
   }, {
     "range" : "56",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "631"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8633,57 +8633,57 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "632"
   }, {
     "range" : "1",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "633"
   }, {
     "range" : "75",
     "domain" : "135",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "634"
   }, {
     "range" : "7",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "635"
   }, {
     "range" : "170",
     "domain" : "135",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "636"
   }, {
     "range" : "17",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "637"
   }, {
     "range" : "110",
     "domain" : "267",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "638"
   }, {
     "range" : "23",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "639"
   }, {
     "range" : "75",
     "domain" : "267",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "640"
   }, {
     "range" : "28",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "641"
   }, {
     "range" : "32",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "642"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8698,7 +8698,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "643"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8713,12 +8713,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "644"
   }, {
     "range" : "97",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "645"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -8731,12 +8731,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "646"
   }, {
     "range" : "99",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "647"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -8749,122 +8749,122 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "648"
   }, {
     "range" : "56",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "649"
   }, {
     "range" : "267",
     "domain" : "135",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "650"
   }, {
     "range" : "62",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "651"
   }, {
     "range" : "110",
     "domain" : "135",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "652"
   }, {
     "range" : "113",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "653"
   }, {
     "range" : "113",
     "domain" : "281",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "654"
   }, {
     "range" : "113",
     "domain" : "2",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "655"
   }, {
     "range" : "113",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "656"
   }, {
     "range" : "113",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "657"
   }, {
     "range" : "113",
     "domain" : "143",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "658"
   }, {
     "range" : "113",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "659"
   }, {
     "range" : "113",
     "domain" : "99",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "660"
   }, {
     "range" : "113",
     "domain" : "119",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "661"
   }, {
     "range" : "113",
     "domain" : "37",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "662"
   }, {
     "range" : "160",
     "domain" : "104",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "664"
   }, {
     "range" : "160",
     "domain" : "394",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "665"
   }, {
     "range" : "8",
     "domain" : "125",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "666"
   }, {
     "range" : "113",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "667"
   }, {
     "range" : "113",
     "domain" : "7",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "668"
   }, {
     "range" : "113",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "669"
   }, {
     "range" : "113",
     "domain" : "36",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "670"
   }, {
     "range" : "113",
     "domain" : "17",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "671"
   }, {
     "range" : "113",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "672"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -8877,7 +8877,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "673"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8892,7 +8892,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "674"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8907,7 +8907,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "675"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8922,7 +8922,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "676"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8937,7 +8937,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "677"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8952,7 +8952,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "678"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8967,7 +8967,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "679"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8982,7 +8982,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "680"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8997,7 +8997,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "681"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9012,7 +9012,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "683"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9027,7 +9027,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "684"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9042,7 +9042,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "685"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9057,7 +9057,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "686"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9072,7 +9072,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "687"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9085,7 +9085,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "688"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9098,7 +9098,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "689"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9111,7 +9111,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "690"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9124,7 +9124,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "691"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9137,7 +9137,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "692"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9152,12 +9152,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "693"
   }, {
     "range" : "250",
     "domain" : "13",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "694"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9172,12 +9172,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "695"
   }, {
     "range" : "181",
     "domain" : "180",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "696"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9192,12 +9192,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "697"
   }, {
     "range" : "343",
     "domain" : "449",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "698"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9212,12 +9212,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "699"
   }, {
     "range" : "451",
     "domain" : "45",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "700"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9232,12 +9232,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "701"
   }, {
     "range" : "451",
     "domain" : "65",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "702"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9252,12 +9252,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "703"
   }, {
     "range" : "451",
     "domain" : "147",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "704"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9272,12 +9272,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "705"
   }, {
     "range" : "451",
     "domain" : "149",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "706"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9292,22 +9292,22 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "707"
   }, {
     "range" : "334",
     "domain" : "279",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "708"
   }, {
     "range" : "250",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "709"
   }, {
     "range" : "250",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "710"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9322,12 +9322,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "711"
   }, {
     "range" : "250",
     "domain" : "47",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "712"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9342,12 +9342,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "713"
   }, {
     "range" : "250",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "714"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9362,12 +9362,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "715"
   }, {
     "range" : "250",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "716"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9382,12 +9382,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "717"
   }, {
     "range" : "250",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "718"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9402,12 +9402,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "719"
   }, {
     "range" : "250",
     "domain" : "26",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "720"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9422,12 +9422,12 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "721"
   }, {
     "range" : "250",
     "domain" : "5",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "722"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9440,22 +9440,22 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "723"
   }, {
     "range" : "250",
     "domain" : "19",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "724"
   }, {
     "range" : "70",
     "domain" : "145",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "725"
   }, {
     "range" : "250",
     "domain" : "21",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "726"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9468,12 +9468,12 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "727"
   }, {
     "range" : "250",
     "domain" : "58",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "728"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9488,7 +9488,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "729"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9503,102 +9503,102 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "730"
   }, {
     "range" : "250",
     "domain" : "333",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "731"
   }, {
     "range" : "250",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "732"
   }, {
     "range" : "274",
     "domain" : "275",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "733"
   }, {
     "range" : "49",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "734"
   }, {
     "range" : "101",
     "domain" : "40",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "735"
   }, {
     "range" : "21",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "736"
   }, {
     "range" : "279",
     "domain" : "130",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "737"
   }, {
     "range" : "95",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "738"
   }, {
     "range" : "279",
     "domain" : "88",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "739"
   }, {
     "range" : "49",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "740"
   }, {
     "range" : "279",
     "domain" : "133",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "741"
   }, {
     "range" : "21",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "742"
   }, {
     "range" : "159",
     "domain" : "28",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "743"
   }, {
     "range" : "49",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "744"
   }, {
     "range" : "159",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "745"
   }, {
     "range" : "21",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "746"
   }, {
     "range" : "159",
     "domain" : "113",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "747"
   }, {
     "range" : "21",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "748"
   }, {
     "range" : "263",
     "domain" : "262",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "749"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9611,7 +9611,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "someValues", "external", "object", "functional" ],
+    "attributes" : [ "external", "object", "someValues", "functional" ],
     "id" : "750"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9626,112 +9626,112 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "someValues", "external", "object", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "someValues" ],
     "id" : "751"
   }, {
     "range" : "262",
     "domain" : "264",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "752"
   }, {
     "range" : "113",
     "domain" : "277",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "753"
   }, {
     "range" : "113",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "754"
   }, {
     "range" : "19",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "755"
   }, {
     "range" : "113",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "756"
   }, {
     "range" : "19",
     "domain" : "49",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "757"
   }, {
     "range" : "113",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "758"
   }, {
     "range" : "19",
     "domain" : "21",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "759"
   }, {
     "range" : "113",
     "domain" : "67",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "760"
   }, {
     "range" : "15",
     "domain" : "30",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "761"
   }, {
     "range" : "113",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "762"
   }, {
     "range" : "15",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "763"
   }, {
     "range" : "113",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "764"
   }, {
     "range" : "15",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "765"
   }, {
     "range" : "15",
     "domain" : "141",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "766"
   }, {
     "range" : "49",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "767"
   }, {
     "range" : "262",
     "domain" : "107",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "768"
   }, {
     "range" : "21",
     "domain" : "15",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "769"
   }, {
     "range" : "262",
     "domain" : "54",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "770"
   }, {
     "range" : "30",
     "domain" : "34",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "771"
   }, {
     "range" : "30",
     "domain" : "95",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "772"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9757,7 +9757,7 @@
     },
     "superproperty" : [ "41" ],
     "domain" : "299",
-    "attributes" : [ "external", "object", "functional", "inverse functional" ],
+    "attributes" : [ "external", "object", "inverse functional", "functional" ],
     "id" : "105"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9789,202 +9789,202 @@
   }, {
     "range" : "28",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "775"
   }, {
     "range" : "115",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "776"
   }, {
     "range" : "67",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "777"
   }, {
     "range" : "67",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "778"
   }, {
     "range" : "67",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "779"
   }, {
     "range" : "67",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "780"
   }, {
     "range" : "67",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "781"
   }, {
     "range" : "67",
     "domain" : "93",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "782"
   }, {
     "range" : "67",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "783"
   }, {
     "range" : "99",
     "domain" : "67",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "784"
   }, {
     "range" : "23",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "785"
   }, {
     "range" : "115",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "786"
   }, {
     "range" : "93",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "787"
   }, {
     "range" : "97",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "788"
   }, {
     "range" : "99",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "789"
   }, {
     "range" : "115",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "790"
   }, {
     "range" : "115",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "791"
   }, {
     "range" : "115",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "792"
   }, {
     "range" : "7",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "793"
   }, {
     "range" : "17",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "794"
   }, {
     "range" : "115",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "795"
   }, {
     "range" : "115",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "796"
   }, {
     "range" : "7",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "797"
   }, {
     "range" : "17",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "798"
   }, {
     "range" : "39",
     "domain" : "23",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "799"
   }, {
     "range" : "28",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "800"
   }, {
     "range" : "39",
     "domain" : "32",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "801"
   }, {
     "range" : "67",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "802"
   }, {
     "range" : "115",
     "domain" : "72",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "803"
   }, {
     "range" : "77",
     "domain" : "115",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "804"
   }, {
     "range" : "39",
     "domain" : "56",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "805"
   }, {
     "range" : "39",
     "domain" : "62",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "806"
   }, {
     "range" : "39",
     "domain" : "1",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "807"
   }, {
     "range" : "39",
     "domain" : "77",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "808"
   }, {
     "range" : "39",
     "domain" : "81",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "809"
   }, {
     "range" : "39",
     "domain" : "85",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "810"
   }, {
     "range" : "39",
     "domain" : "90",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "811"
   }, {
     "range" : "93",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "812"
   }, {
     "range" : "39",
     "domain" : "97",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "813"
   }, {
     "range" : "99",
     "domain" : "39",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "814"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasCountryOfOrigin",
