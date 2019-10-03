@@ -222,7 +222,7 @@ def loadOntology(file) :
     session['ontology'] = onto_id
     """ Corresponding new relations for given ontology are stored in data/new. """
 
-    new_relations, new_nodes,f = get_new_relations(os.path.join(current_app.root_path,"data/new")+ "/" + fname)
+    new_relations, new_nodes = get_new_relations(os.path.join(current_app.root_path,"data/new")+ "/" + fname)
     print(new_relations)
     result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier != :subclass""",
         {'subclass': str(RDFS.subClassOf)})

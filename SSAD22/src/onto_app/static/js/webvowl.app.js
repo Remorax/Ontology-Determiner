@@ -9202,11 +9202,10 @@ webvowl.app =
 	    _filterHintId = id;
 	    var generalHint = warningContainer.append('div');
 	    /** Editing mode activated. You can now modify an existing ontology or create a new one via the <em>ontology</em> menu. You can save any ontology using the <em>export</em> menu (and exporting it as TTL file).**/
-			generalHint.node().innerHTML = "";
-			// generalHint.node().innerHTML = "Collapsing filter activated.<br>" +
-	    //   "The number of visualized elements has been automatically reduced.<br>" +
-	    //   "Use the degree of collapsing slider in the <em>filter</em> menu to adjust the visualization.<br><br>" +
-	    //   "<em>Note:</em> A performance decrease could be experienced with a growing amount of visual elements in the graph.";
+	    generalHint.node().innerHTML = "Collapsing filter activated.<br>" +
+	      "The number of visualized elements has been automatically reduced.<br>" +
+	      "Use the degree of collapsing slider in the <em>filter</em> menu to adjust the visualization.<br><br>" +
+	      "<em>Note:</em> A performance decrease could be experienced with a growing amount of visual elements in the graph.";
 	    
 	    
 	    generalHint.style("padding", "5px");
@@ -9214,9 +9213,8 @@ webvowl.app =
 	    generalHint.style("font-size", "1.2em");
 	    
 	    var gotItButton = warningContainer.append("label");
-			gotItButton.node().id = "killFilterMessages_" + id;
-			gotItButton.node().innerHTML = "";
-	    // gotItButton.node().innerHTML = "Got It";
+	    gotItButton.node().id = "killFilterMessages_" + id;
+	    gotItButton.node().innerHTML = "Got It";
 	    gotItButton.on("click", warningModule.closeMessage);
 	    
 	    moduleContainer.classed("hidden", false);
