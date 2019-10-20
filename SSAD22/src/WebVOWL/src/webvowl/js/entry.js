@@ -13,7 +13,7 @@ webvowl.util = {};
 webvowl.util.constants = require("./util/constants");
 webvowl.util.languageTools = require("./util/languageTools");
 webvowl.util.elementTools = require("./util/elementTools");
-
+webvowl.util.prefixTools = require("./util/prefixRepresentationModule");
 webvowl.modules = {};
 webvowl.modules.colorExternalsSwitch = require("./modules/colorExternalsSwitch");
 webvowl.modules.compactNotationSwitch = require("./modules/compactNotationSwitch");
@@ -32,18 +32,18 @@ webvowl.modules.subclassFilter = require("./modules/subclassFilter");
 
 
 webvowl.nodes = {};
-nodeMap.entries().forEach(function (entry) {
-	mapEntryToIdentifier(webvowl.nodes, entry);
+nodeMap.entries().forEach(function ( entry ){
+  mapEntryToIdentifier(webvowl.nodes, entry);
 });
 
 webvowl.properties = {};
-propertyMap.entries().forEach(function (entry) {
-	mapEntryToIdentifier(webvowl.properties, entry);
+propertyMap.entries().forEach(function ( entry ){
+  mapEntryToIdentifier(webvowl.properties, entry);
 });
 
-function mapEntryToIdentifier(map, entry) {
-	var identifier = entry.key.replace(":", "").toLowerCase();
-	map[identifier] = entry.value;
+function mapEntryToIdentifier( map, entry ){
+  var identifier = entry.key.replace(":", "").toLowerCase();
+  map[identifier] = entry.value;
 }
 
 

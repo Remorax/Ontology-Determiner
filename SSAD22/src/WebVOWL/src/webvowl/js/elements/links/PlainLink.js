@@ -1,6 +1,7 @@
 var Label = require("./Label");
 
-module.exports = PlainLink, nodeArray;
+
+module.exports = PlainLink;
 
 /**
  * A link connects at least two VOWL nodes.
@@ -9,99 +10,95 @@ module.exports = PlainLink, nodeArray;
  * @param range
  * @param property
  */
-
-var nodeArray = []
-
-// module.exports(nodeArray)
-
-function PlainLink(domain, range, property) {
-	// console.log("Hello")
-	// console.log("domain", domain.iri());
-	// console.log("range", range.iri());
-	// console.log("property", property.iri());
-	// console.log("id", property.id()) ;
-	nodeArray.push([property.id(),property.iri(),range.iri(), domain.iri()]) ;
-	// console.log(nodeArray) ; 
-	var layers,
-		layerIndex,
-		loops,
-		loopIndex,
-		label = new Label(property, this);
-
-	var backPart = require("./linkPart")(domain, label, this),
-		frontPart = require("./linkPart")(label, range, this);
-
-
-	this.layers = function (p) {
-		if (!arguments.length) return layers;
-		layers = p;
-		return this;
-	};
-
-	this.layerIndex = function (p) {
-		if (!arguments.length) return layerIndex;
-		layerIndex = p;
-		return this;
-	};
-
-	this.loops = function (p) {
-		if (!arguments.length) return loops;
-		loops = p;
-		return this;
-	};
-
-	this.loopIndex = function (p) {
-		if (!arguments.length) return loopIndex;
-		loopIndex = p;
-		return this;
-	};
-
-
-	this.domain = function () {
-		return domain;
-	};
-
-	this.label = function () {
-		return label;
-	};
-
-	this.linkParts = function () {
-		// console.log([frontPart, backPart]) ;
-		return [frontPart, backPart];
-	};
-
-	this.range = function () {
-		return range;
-	};
-
+function PlainLink( domain, range, property ){
+  var layers,
+    layerIndex,
+    loops,
+    loopIndex,
+    pathEl,
+    label = new Label(property, this);
+  
+  var backPart = require("./linkPart")(domain, label, this),
+    frontPart = require("./linkPart")(label, range, this);
+  
+  
+  this.layers = function ( p ){
+    if ( !arguments.length ) return layers;
+    layers = p;
+    return this;
+  };
+  
+  this.layerIndex = function ( p ){
+    if ( !arguments.length ) return layerIndex;
+    layerIndex = p;
+    return this;
+  };
+  
+  this.loops = function ( p ){
+    if ( !arguments.length ) return loops;
+    loops = p;
+    return this;
+  };
+  
+  this.loopIndex = function ( p ){
+    if ( !arguments.length ) return loopIndex;
+    loopIndex = p;
+    return this;
+  };
+  
+  
+  this.domain = function (){
+    return domain;
+  };
+  
+  this.label = function (){
+    return label;
+  };
+  
+  this.linkParts = function (){
+    return [frontPart, backPart];
+  };
+  
+  this.range = function (){
+    return range;
+  };
+  this.pathObj = function ( pE ){
+    if ( !arguments.length ) {
+      return pathEl;
+    }
+    pathEl = pE;
+  };
 }
 
 
-PlainLink.prototype.draw = function (linkGroup) {
-	var property = this.label().property();
-	var inverse = this.label().inverse();
-
-	property.linkGroup(linkGroup);
-	if (inverse) {
-		inverse.linkGroup(linkGroup);
-	}
-
-	linkGroup.append("path")
-		.classed("link-path", true)
-		.classed(this.domain().cssClassOfNode(), true)
-		.classed(this.range().cssClassOfNode(), true)
-		.classed(property.linkType(), true);
+PlainLink.prototype.draw = function ( linkGroup ){
+  var property = this.label().property();
+  var inverse = this.label().inverse();
+  
+  property.linkGroup(linkGroup);
+  if ( inverse ) {
+    inverse.linkGroup(linkGroup);
+  }
+  
+  var pathElement = linkGroup.append("path");
+  pathElement.classed("link-path", true)
+    .classed(this.domain().cssClassOfNode(), true)
+    .classed(this.range().cssClassOfNode(), true)
+    .classed(property.linkType(), true);
+  this.pathObj(pathElement);
+  
 };
 
-PlainLink.prototype.inverse = function () {
-	return this.label().inverse();
+
+PlainLink.prototype.inverse = function (){
+  return this.label().inverse();
 };
 
-PlainLink.prototype.isLoop = function () {
-	return this.domain().equals(this.range());
+PlainLink.prototype.isLoop = function (){
+  return this.domain().equals(this.range());
 };
 
-PlainLink.prototype.property = function () {
-	return this.label().property();
+PlainLink.prototype.property = function (){
+  return this.label().property();
 };
 

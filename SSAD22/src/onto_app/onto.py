@@ -54,8 +54,8 @@ def createParsedRelations(file, fname):
     allParsedRelations = []
     for line in open(file, "r").readlines():
         (instance, concept) = line.split()
-        newinstance = baseurl + "#" + instance
-        newconcept = baseurl + "#" + concept
+        newinstance = baseurl + "#" + concept 
+        newconcept = baseurl + "#" + instance
         relation = "http://www.w3.org/2000/01/rdf-schema#subClassOf"
         allParsedRelations.append(" ".join([newinstance, relation, newconcept]))
     string = "\n".join(allParsedRelations)
@@ -116,8 +116,11 @@ def get_new_relations(filepath):
     # triple of the subject, predicate, and object
     # Create an adjacency list graph from the triples
     for l in f.readlines():
-        print (l)
+        print("new_file",l)
+        print("\n")
         s, p, o = l.split()
+       
+
         if o == str(OWL.Class):
             classes.append(s)
         elif (p == str(RDFS.subClassOf) and not is_blank(s) and not is_blank(o)):
@@ -200,6 +203,14 @@ def add_relation_decision(user_id, property, domain, range, quantifier, onto_id,
         'range': range
         # 'quantifier': quantifier
     }
+    print("user_id:", user_id)
+    print("user_id:", property)
+    print("domain:", domain)
+    print("range:", range)
+    print("quantifier:", quantifier)
+    print("onto_id:", onto_id)
+    print("decision:", decision)
+
     if property:
         args['property'] = property
         relation_query = """SELECT id FROM class_relations
@@ -214,6 +225,7 @@ def add_relation_decision(user_id, property, domain, range, quantifier, onto_id,
                             AND range = :range"""
 
     result = db.engine.execute(relation_query, args)
+
 
     relation_id = result.fetchone()['id']
 

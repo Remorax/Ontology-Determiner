@@ -31,7 +31,7 @@ def generate_final_ontology(name):
             onto_id = res[0]
         else:
             raise ValueError
-        print (onto_id, RDFS.subClassOf)
+        # print (onto_id, RDFS.subClassOf)
         owl_path = './data/final/' + name + '.owl'
         if not os.path.isfile(owl_path):
             try:
@@ -41,15 +41,17 @@ def generate_final_ontology(name):
 
         result = c.execute("""SELECT * FROM class_relations WHERE onto_id = ?""", (onto_id,))
         relations = result.fetchall()
-        print ("**",relations, "**")
+        # print ("**",relations, "**")
         for r in relations:
-            print (r)
+            # print (r)
             result = c.execute("""SELECT * FROM class_decisions WHERE relation_id = ?""", (r[0],))
             decisions = result.fetchall()
             if decisions:
                 print (type(decisions), type(decisions[0]))
                 if not accepted([d['approved'] for d in decisions]):
-                    if r['quantifier'] == RDFS.subClassOf:
+                    print(type(r['quantifier']))
+                    print(type(RDFS.subClassOf))
+                    if r['quantifier'] == str(RDFS.subClassOf):
                         try:
                             subprocess.run(['java', '-jar', SUBCLASSES, r['domain'], r['range'], owl_path])
                         except:

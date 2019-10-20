@@ -222,29 +222,30 @@ def loadOntology(file) :
     session['ontology'] = onto_id
     """ Corresponding new relations for given ontology are stored in data/new. """
 
-    new_relations, new_nodes,f = get_new_relations(os.path.join(current_app.root_path,"data/new")+ "/" + fname)
+    new_relations, new_classes,new_nodes = get_new_relations(os.path.join(current_app.root_path,"data/new")+ "/" + fname)
     print(new_relations)
+    print("new_nodes",new_nodes)
     result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier != :subclass""",
         {'subclass': str(RDFS.subClassOf)})
     new_relations = [(r['domain'], r['property'], r['quantifier'], r['range']) for r in result.fetchall()]
 
     result = db.engine.execute("""SELECT * FROM nodes""")
-    new_nodes = [n['name'] for n in result.fetchall()]
-
+    # /new_nodes = [n['name'] for n in result.fetchall()]
+    print("new_nodes",new_nodes)
     result = db.engine.execute("""SELECT * FROM class_relations WHERE quantifier = :subclass""",
         {'subclass': str(RDFS.subClassOf)})
     new_subclasses = [(r['domain'], r['range']) for r in result.fetchall()]
-    print ("new subclass", new_subclasses)
-    print(uploads)
+    # print ("new subclass", new_subclasses)
+    # print(uploads)
     try :
         with open(uploads,"r") as json_data:
             contents = json.load(json_data)
-            print(contents)
+            # print(contents)
     except :
         flash('Oops record not found')
         return redirect(url_for('hello'))
 
-    return render_template("index.html", ontologyJsonString=contents)
+    return render_template("index.html", ontologyJsonString=contents,userId=session['userid'])
 
 
 # @app.route('/return-files/<path:filename>/', methods = ['GET', 'POST'])

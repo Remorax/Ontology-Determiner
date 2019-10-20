@@ -507,6 +507,9 @@
         {% if ontologyJsonString %}
         <div class="hidden" id="ontologyJsonString" value='{{ontologyJsonString}}'>{{ontologyJsonString | tojson | safe }}</div>
         {% endif %}
+        {% if userId %}
+        <div class="hidden" id="userId" value='{{userId}}'>{{userId | tojson | safe }}</div>
+        {% endif %} 
 
     </main>
     <script src="{{ url_for('static', filename='js/d3.min.js') }}"></script>
